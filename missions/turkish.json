@@ -269,6 +269,57 @@
 					}
 				}
 			},
+			"murder": {
+				"kill_murderer_to_bystander": {
+					"desc": ":value: masumları katil olarak öldür.",
+					"format": {
+						"singular": ":value: masum öldürüldü",
+						"plural": ":value: masumlar öldürüldü"
+					}
+				},
+				"kill_bystander_to_murderer": {
+					"desc": ":value: katilleri masum olarak öldür.",
+					"format": {
+						"singular": ":value: katil öldürüldü",
+						"plural": ":value: katiller öldürüldü"
+					}
+				},
+				"win_murderer": {
+					"desc": "Katil olarak :value:x kazan.",
+					"format": {
+						"singular": ":value: katil olarak zafer",
+						"plural": ":value: katil olarak zaferler"
+					}
+				},
+				"win_bystander": {
+					"desc": "Masum olarak :value:x kazan.",
+					"format": {
+						"singular": ":value: masum olarak zafer",
+						"plural": ":value: masum olarak zaferler"
+					}
+				},
+				"loot_get": {
+					"desc": ":value: delilleri topla.",
+					"format": {
+						"singular": ":value: delil toplandı",
+						"plural": ":value: deliller toplandı"
+					}
+				},
+				"time_alive_bystander": {
+					"desc": ":value: (Masum) olarak hayatta kal.",
+					"format": {
+						"singular": ":value: dakika masum olarak hayatta kal",
+						"plural": ":value: dakika masum olarak hayatta kal"
+					}
+				},
+				"time_alive_murderer": {
+					"desc": ":value: (Katil) olarak hayatta kal.",
+					"format": {
+						"singular": ":value: dakika katil olarak hayatta kal",
+						"plural": ":value: dakika katil olarak hayatta kal"
+					}
+				}
+			},
 			"addons": {
 				"emotes": {
 					"normal": {

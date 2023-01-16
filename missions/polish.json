@@ -269,6 +269,57 @@
 					}
 				}
 			},
+			"murder": {
+				"kill_murderer_to_bystander": {
+					"desc": "Zabij :value: niewinnych jako morderca.",
+					"format": {
+						"singular": ":value: zabity niewinny",
+						"plural": ":value: zabici niewinni"
+					}
+				},
+				"kill_bystander_to_murderer": {
+					"desc": "Zabij :value: morderców jako niewinny.",
+					"format": {
+						"singular": ":value: zabity morderca",
+						"plural": ":value: zabici mordercy"
+					}
+				},
+				"win_murderer": {
+					"desc": "Wygraj :value:x jako morderca.",
+					"format": {
+						"singular": ":value: zwycięstwo jako morderca",
+						"plural": ":value: zwycięstwa jako morderca"
+					}
+				},
+				"win_bystander": {
+					"desc": "Wygraj :value:x jako niewinny.",
+					"format": {
+						"singular": ":value: zwycięstwo jako niewinny",
+						"plural": ":value: zwycięstwa jako niewinny"
+					}
+				},
+				"loot_get": {
+					"desc": "Zdobądź :value: Dowody.",
+					"format": {
+						"singular": ":value: zdobyty dowód",
+						"plural": ":value: zdobyte dowody"
+					}
+				},
+				"time_alive_bystander": {
+					"desc": "Pozostań przy życiu przez :value: (Niewinny).",
+					"format": {
+						"singular": ":value: minuta jako niewinny",
+						"plural": ":value: minuty jako niewinny"
+					}
+				},
+				"time_alive_murderer": {
+					"desc": "Pozostań przy życiu przez :value: (Morderca).",
+					"format": {
+						"singular": ":value: minuta jako morderca",
+						"plural": ":value: minuty jako morderca"
+					}
+				}
+			},
 			"addons": {
 				"emotes": {
 					"normal": {

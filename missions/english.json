@@ -269,6 +269,57 @@
 					}
 				}
 			},
+			"murder": {
+				"kill_murderer_to_bystander": {
+					"desc": "Kill :value: innocent as Murderer.",
+					"format": {
+						"singular": ":value: innocent killed",
+						"plural": ":value: innocents killed"
+					}
+				},
+				"kill_bystander_to_murderer": {
+					"desc": "Kill :value: murderers as innocent.",
+					"format": {
+						"singular": ":value: murderer killed",
+						"plural": ":value: murderers killed"
+					}
+				},
+				"win_murderer": {
+					"desc": "Win :value:x as Murderer.",
+					"format": {
+						"singular": ":value: victory as Murderer",
+						"plural": ":value: victories as Murderer"
+					}
+				},
+				"win_bystander": {
+					"desc": "Win :value:x as Innocent.",
+					"format": {
+						"singular": ":value: victory as Innocent",
+						"plural": ":value: victories as Innocent"
+					}
+				},
+				"loot_get": {
+					"desc": "Retrieve :value: Clues.",
+					"format": {
+						"singular": ":value: clue retrieved",
+						"plural": ":value: clues retrieved"
+					}
+				},
+				"time_alive_bystander": {
+					"desc": "Stay alive for :value: (Innocent).",
+					"format": {
+						"singular": ":value: minute as Innocent",
+						"plural": ":value: minutes as Innocent"
+					}
+				},
+				"time_alive_murderer": {
+					"desc": "Stay alive for :value: (Murderer).",
+					"format": {
+						"singular": ":value: minute as Murderer",
+						"plural": ":value: minutes as Murderer"
+					}
+				}
+			},
 			"addons": {
 				"emotes": {
 					"normal": {

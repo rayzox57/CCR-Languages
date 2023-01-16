@@ -269,6 +269,57 @@
 					}
 				}
 			},
+			"murder": {
+				"kill_murderer_to_bystander": {
+					"desc": "무죄자를 살인범으로 :value:명 죽이세요.",
+					"format": {
+						"singular": ":value:명의 무죄자 죽음",
+						"plural": ":value:명의 무죄자들 죽음"
+					}
+				},
+				"kill_bystander_to_murderer": {
+					"desc": "무죄자로 :value:명의 살인범을 죽이세요.",
+					"format": {
+						"singular": ":value:명의 살인범 죽음",
+						"plural": ":value:명의 살인범들 죽음"
+					}
+				},
+				"win_murderer": {
+					"desc": "살인범으로 :value:번 승리하세요.",
+					"format": {
+						"singular": ":value:번의 살인범 승리",
+						"plural": ":value:번의 살인범 승리"
+					}
+				},
+				"win_bystander": {
+					"desc": "무죄자로 :value:번 승리하세요.",
+					"format": {
+						"singular": ":value:번의 무죄자 승리",
+						"plural": ":value:번의 무죄자 승리"
+					}
+				},
+				"loot_get": {
+					"desc": ":value:개의 증거를 얻으세요.",
+					"format": {
+						"singular": ":value:개의 증거 얻음",
+						"plural": ":value:개의 증거들 얻음"
+					}
+				},
+				"time_alive_bystander": {
+					"desc": "무죄자로 :value:분동안 생존하세요.",
+					"format": {
+						"singular": ":value:분 무죄자로 생존",
+						"plural": ":value:분 무죄자로 생존"
+					}
+				},
+				"time_alive_murderer": {
+					"desc": "살인범으로 :value:분동안 생존하세요.",
+					"format": {
+						"singular": ":value:분 살인범으로 생존",
+						"plural": ":value:분 살인범으로 생존"
+					}
+				}
+			},
 			"addons": {
 				"emotes": {
 					"normal": {

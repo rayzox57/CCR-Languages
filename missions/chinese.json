@@ -262,6 +262,57 @@
 					}
 				}
 			},
+			"murder": {
+				"kill_murderer_to_bystander": {
+					"desc": "杀死 :value: 无辜者的凶手。",
+					"format": {
+						"singular": ":value: 无辜者被杀",
+						"plural": ":value: 无辜者被杀"
+					}
+				},
+				"kill_bystander_to_murderer": {
+					"desc": "杀死 :value: 凶手的无辜者。",
+					"format": {
+						"singular": ":value: 凶手被杀",
+						"plural": ":value: 凶手被杀"
+					}
+				},
+				"win_murderer": {
+					"desc": "在凶手中赢得 :value:x。",
+					"format": {
+						"singular": ":value: 在凶手中胜利",
+						"plural": ":value: 在凶手中胜利"
+					}
+				},
+				"win_bystander": {
+					"desc": "在无辜者中赢得 :value:x。",
+					"format": {
+						"singular": ":value: 在无辜者中胜利",
+						"plural": ":value: 在无辜者中胜利"
+					}
+				},
+				"loot_get": {
+					"desc": "收回 :value: 指示。",
+					"format": {
+						"singular": ":value: 指标被收回",
+						"plural": ":value: 指标被收回"
+					}
+				},
+				"time_alive_bystander": {
+					"desc": "在无辜者中活着 :value:。",
+					"format": {
+						"singular": ":value: 在无辜者中的分钟",
+						"plural": ":value: 在无辜者中的分钟"
+					}
+				},
+				"time_alive_murderer": {
+					"desc": "在凶手中活着 :value:。",
+					"format": {
+						"singular": ":value: 在凶手中的分钟",
+						"plural": ":value: 在凶手中的分钟"
+					}
+				}
+			},
 			"addons": {
 				"emotes": {
 					"normal": {

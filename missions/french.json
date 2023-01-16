@@ -269,6 +269,57 @@
 					}
 				}
 			},
+			"murder": {
+				"kill_murderer_to_bystander" : {
+					"desc": "Tue :value: innocents en Meurtrier.",
+					"format": {
+						"singular": ":value: innocent tué",
+						"plural": ":value: innocents tués"
+					}
+				},
+				"kill_bystander_to_murderer" : {
+					"desc": "Tue :value: meurtriers en innocent.",
+					"format": {
+						"singular": ":value: meurtrier tué",
+						"plural": ":value: meurtriers tués"
+					}
+				},
+				"win_murderer" : {
+					"desc": "Gagne :value:x en Meurtrier.",
+					"format": {
+						"singular": ":value: victoire en Meurtrier",
+						"plural": ":value: victoires en Meurtrier"
+					}
+				},
+				"win_bystander" : {
+					"desc": "Gagne :value:x en Innocent.",
+					"format": {
+						"singular": ":value: victoire en Innocent",
+						"plural": ":value: victoires en Innocent"
+					}
+				},
+				"loot_get" : {
+					"desc": "Récupère :value: Indices.",
+					"format": {
+						"singular": ":value: indice récupéré",
+						"plural": ":value: indices récupérés"
+					}
+				},
+				"time_alive_bystander" : {
+					"desc": "Restez en vie pendant :value: (Innocent).",
+					"format": {
+						"singular": ":value: minute en Innocent",
+						"plural": ":value: minutes en Innocent"
+					}
+				},
+				"time_alive_murderer" : {
+					"desc": "Restez en vie pendant :value: (Meurtrier).",
+					"format": {
+						"singular": ":value: minute en Meurtrier",
+						"plural": ":value: minutes en Meurtrier"
+					}
+				}
+			},
 			"addons": {
 				"emotes": {
 					"normal": {

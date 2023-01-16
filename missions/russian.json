@@ -269,6 +269,57 @@
 					}
 				}
 			},
+			"murder": {
+				"kill_murderer_to_bystander": {
+					"desc": "Убейте :value: невинных как убийца.",
+					"format": {
+						"singular": ":value: убит невинный",
+						"plural": ":value: убиты невинные"
+					}
+				},
+				"kill_bystander_to_murderer": {
+					"desc": "Убейте :value: убийц как невинный.",
+					"format": {
+						"singular": ":value: убит убийца",
+						"plural": ":value: убиты убийцы"
+					}
+				},
+				"win_murderer": {
+					"desc": "Выиграйте :value:x как убийца.",
+					"format": {
+						"singular": ":value: победа как убийца",
+						"plural": ":value: победы как убийца"
+					}
+				},
+				"win_bystander": {
+					"desc": "Выиграйте :value:x как невинный.",
+					"format": {
+						"singular": ":value: победа как невинный",
+						"plural": ":value: победы как невинный"
+					}
+				},
+				"loot_get": {
+					"desc": "Получите :value: Доказательства.",
+					"format": {
+						"singular": ":value: полученное доказательство",
+						"plural": ":value: полученные доказательства"
+					}
+				},
+				"time_alive_bystander": {
+					"desc": "Оставайтесь в живых :value: (Невинный).",
+					"format": {
+						"singular": ":value: минута как невинный",
+						"plural": ":value: минуты как невинный"
+					}
+				},
+				"time_alive_murderer": {
+					"desc": "Оставайтесь в живых :value: (Убийца).",
+					"format": {
+						"singular": ":value: минута как убийца",
+						"plural": ":value: минут как убийца"
+					}
+				}
+			},
 			"addons": {
 				"emotes": {
 					"normal": {

@@ -269,6 +269,57 @@
 					}
 				}
 			},
+			"murder": {
+				"kill_murderer_to_bystander": {
+					"desc": "Töten Sie :value: Unschuldige als Mörder.",
+					"format": {
+						"singular": ":value: unschuldiger Toter",
+						"plural": ":value: unschuldige Tote"
+					}
+				},
+				"kill_bystander_to_murderer": {
+					"desc": "Töten Sie :value: Mörder als Unschuldiger.",
+					"format": {
+						"singular": ":value: Mörder getötet",
+						"plural": ":value: Mörder getötet"
+					}
+				},
+				"win_murderer": {
+					"desc": "Gewinnen Sie :value:x als Mörder.",
+					"format": {
+						"singular": ":value: Sieg als Mörder",
+						"plural": ":value: Siege als Mörder"
+					}
+				},
+				"win_bystander": {
+					"desc": "Gewinnen Sie :value:x als Unschuldiger.",
+					"format": {
+						"singular": ":value: Sieg als Unschuldiger",
+						"plural": ":value: Siege als Unschuldiger"
+					}
+				},
+				"loot_get": {
+					"desc": "Sammeln Sie :value: Hinweise.",
+					"format": {
+						"singular": ":value: Hinweis gesammelt",
+						"plural": ":value: Hinweise gesammelt"
+					}
+				},
+				"time_alive_bystander": {
+					"desc": "Bleiben Sie :value: lebendig (Unschuldiger).",
+					"format": {
+						"singular": ":value: Minute als Unschuldiger",
+						"plural": ":value: Minuten als Unschuldiger"
+					}
+				},
+				"time_alive_murderer": {
+					"desc": "Bleiben Sie :value: lebendig (Mörder).",
+					"format": {
+						"singular": ":value: Minute als Mörder",
+						"plural": ":value: Minuten als Mter"
+					}
+				}
+			},
 			"addons": {
 				"emotes": {
 					"normal": {

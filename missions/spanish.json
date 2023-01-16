@@ -269,6 +269,57 @@
 					}
 				}
 			},
+			"murder": {
+				"kill_murderer_to_bystander": {
+					"desc": "Mata a :value: inocentes como asesino.",
+					"format": {
+						"singular": ":value: inocente matado",
+						"plural": ":value: inocentes matados"
+					}
+				},
+				"kill_bystander_to_murderer": {
+					"desc": "Mata a :value: asesinos como inocente.",
+					"format": {
+						"singular": ":value: asesino matado",
+						"plural": ":value: asesinos matados"
+					}
+				},
+				"win_murderer": {
+					"desc": "Gana :value:x como asesino.",
+					"format": {
+						"singular": ":value: victoria como asesino",
+						"plural": ":value: victorias como asesino"
+					}
+				},
+				"win_bystander": {
+					"desc": "Gana :value:x como inocente.",
+					"format": {
+						"singular": ":value: victoria como inocente",
+						"plural": ":value: victorias como inocente"
+					}
+				},
+				"loot_get": {
+					"desc": "Recoge :value: Pruebas.",
+					"format": {
+						"singular": ":value: prueba recogida",
+						"plural": ":value: pruebas recogidas"
+					}
+				},
+				"time_alive_bystander": {
+					"desc": "Queda vivo por :value: (Inocente).",
+					"format": {
+						"singular": ":value: minuto como inocente",
+						"plural": ":value: minutos como inocente"
+					}
+				},
+				"time_alive_murderer": {
+					"desc": "Queda vivopor :value: (Asesino).",
+					"format": {
+						"singular": ":value: minuto como asesino",
+						"plural": ":value: minutos como asesino"
+					}
+				}
+			},
 			"addons": {
 				"emotes": {
 					"normal": {
