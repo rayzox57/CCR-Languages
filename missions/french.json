@@ -285,7 +285,7 @@
 					}
 				},
 				"win_murderer" : {
-					"desc": "Gagne :value:x en Meurtrier.",
+					"desc": "Gagne :value: fois en Meurtrier.",
 					"format": {
 						"singular": ":value:",
 						"plural": ":value:"
