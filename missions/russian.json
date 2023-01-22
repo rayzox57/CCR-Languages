@@ -476,6 +476,29 @@
 							"plural": ""
 						}
 					}
+				},
+				"voidcases": {
+					"open": {
+						"desc": "Открыть :value:.",
+						"format": {
+							"singular": ":value: Ящик",
+							"plural": ":value Ящиков"
+						}
+					},
+					"dispence_price": {
+						"desc": "Тратить :value: Денег на распаковку.",
+						"format": {
+							"singular": ":value:",
+							"plural": ":value:"
+						}
+					},
+					"dispence_items": {
+						"desc": "Тратить :value: Ящиков в распаковке.",
+						"format": {
+							"singular": ":value:",
+							"plural": ":value:"
+						}
+					}
 				}
 			}
 		}

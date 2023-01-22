@@ -469,6 +469,29 @@
 							"plural": "$:value:"
 						}
 					}
+				},
+				"voidcases": {
+					"open": {
+						"desc": "打开 :value:.",
+						"format": {
+							"singular": ":value: 箱子",
+							"plural": ":value 箱子"
+						}
+					},
+					"dispence_price": {
+						"desc": "花费 :value: 的钱进行开箱.",
+						"format": {
+							"singular": ":value:",
+							"plural": ":value:"
+						}
+					},
+					"dispence_items": {
+						"desc": "在开箱中花费 :value: 箱子.",
+						"format": {
+							"singular": ":value:",
+							"plural": ":value:"
+						}
+					}
 				}
 			}
 		}

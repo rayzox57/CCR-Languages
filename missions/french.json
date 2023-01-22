@@ -476,6 +476,29 @@
 							"plural": ""
 						}
 					}
+				},
+				"voidcases": {
+					"open": {
+						"desc": "Ouvrir :value:.",
+						"format": {
+							"singular": ":value: Caisse",
+							"plural": ":value Caisses"
+						}
+					},
+					"dispence_price": {
+						"desc": "Dépenser :value: en Argent pour Unboxing.",
+						"format": {
+							"singular": ":value:",
+							"plural": ":value:"
+						}
+					},
+					"dispence_items": {
+						"desc": "Dépenser :value: Caisses dans l'Unboxing.",
+						"format": {
+							"singular": ":value:",
+							"plural": ":value:"
+						}
+					}
 				}
 			}
 		}

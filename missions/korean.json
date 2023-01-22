@@ -476,6 +476,29 @@
 							"plural": ""
 						}
 					}
+				},
+				"voidcases": {
+					"open": {
+						"desc": ":value:를 열다.",
+						"format": {
+							"singular": ":value: 상자",
+							"plural": ":value 상자"
+						}
+					},
+					"dispence_price": {
+						"desc": "뽑기를 위해 :value: 은화를 사용하다.",
+						"format": {
+							"singular": ":value:",
+							"plural": ":value:"
+						}
+					},
+					"dispence_items": {
+						"desc": "뽑기를 위해 :value: 상자를 사용하다.",
+						"format": {
+							"singular": ":value:",
+							"plural": ":value:"
+						}
+					}
 				}
 			}
 		}

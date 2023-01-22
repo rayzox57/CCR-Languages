@@ -476,6 +476,29 @@
 							"plural": "$:value:"
 						}
 					}
+				},
+				"voidcases": {
+					"open": {
+						"desc": "Open :value:.",
+						"format": {
+							"singular": ":value: Case",
+							"plural": ":value Cases"
+						}
+					},
+					"dispence_price": {
+						"desc": "Spend :value: in money for Unboxing.",
+						"format": {
+							"singular": ":value:",
+							"plural": ":value:"
+						}
+					},
+					"dispence_items": {
+						"desc": "Spend :value: Cases in Unboxing.",
+						"format": {
+							"singular": ":value:",
+							"plural": ":value:"
+						}
+					}
 				}
 			}
 		}
